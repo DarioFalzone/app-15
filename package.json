@@ -1,0 +1,33 @@
+{
+  "name": "problem-15",
+  "version": "1.0.0",
+  "description": "La problemática de la semana 15 consiste en crear test automatizados para la página\r https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos aprendidos en clase.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioFalzone/app-15.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarioFalzone/app-15/issues"
+  },
+  "homepage": "https://github.com/DarioFalzone/app-15#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.6.0",
+    "@wdio/sync": "^7.6.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.6.0",
+    "@wdio/mocha-framework": "^7.6.0",
+    "@wdio/spec-reporter": "^7.6.0",
+    "chromedriver": "^90.0.1",
+    "wdio-chromedriver-service": "^7.1.0"
+  }
+}

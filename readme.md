@@ -8,7 +8,9 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 ✅ Changelog:
 
 	# Fix 0.0.3:
-	✔ EN CURSO -
+	✔ Actualizacion de readme.md
+	✔ PageObject - menu.section.js creado
+	✔ Se da existencia a el test automatizado -> menutest.js
 
 	# Fix 0.0.2:
 	✔ Actualizacion de readme.md

@@ -7,7 +7,7 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 ✅ Changelog:
 
-	# Fix 0.0.23:
+	# Fix 0.0.3:
 	✔ EN CURSO -
 
 	# Fix 0.0.2:
@@ -81,11 +81,9 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 		- Prueba de url post logueo ok
 
 	⊛ Pie de página - Redes sociales
-		- Existencia de elementos (3)
-		- Prueba de credenciales vacias
-		- Prueba de credenciales erroneas
-		- Prueba de credenciales correctas
-		- Prueba de url post logueo ok
+		- Existencia de botones
+		- Existencia de link
+		- Comprobacion de redireccionamientos
 
 ----------------------------------------------------------
 

@@ -7,10 +7,22 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 ✅ Changelog:
 
+	# Fix 0.0.23:
+	✔ EN CURSO -
+
+	# Fix 0.0.2:
+	✔ Actualizacion de readme.md
+	✔ Correccion de tabulaciones - login.page.js
+	✔ Correccion de tabulaciones - logintest.js
+	✔ Se da existencia a el test automatizado -> socialtest.js
+	✔ PageObject - social.section.js creado
+
 	# Fix 0.0.1:
 	✔ Actualizacion de readme.md
-	✔ Creacion de carpetas page obsjects / specs
+	✔ Creacion de carpeta page objects
+	✔ Creacion de carpeta specs
 	✔ Se da existencia a el test automatizado -> login page
+	✔ PageObject - login.page.js creado
 	✔ Correcta configuracion de extensiones
 
 ----------------------------------------------------------
@@ -30,6 +42,7 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 	5 - Se ejecutaran de manera automatica los test configurados por cada página
 
 ⊛ Page Objects:
+		→ URL Pagina de logueo (page.js)
 
 		→ Pagina de login (login.page.js)
 			- Input Email ✓
@@ -61,6 +74,13 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 # Test realizados con WDio ⬇⬇⬇
 	⊛ Página de login
+		- Existencia de elementos (3)
+		- Prueba de credenciales vacias
+		- Prueba de credenciales erroneas
+		- Prueba de credenciales correctas
+		- Prueba de url post logueo ok
+
+	⊛ Pie de página - Redes sociales
 		- Existencia de elementos (3)
 		- Prueba de credenciales vacias
 		- Prueba de credenciales erroneas

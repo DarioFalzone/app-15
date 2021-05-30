@@ -1,5 +1,4 @@
 const page = require("./page");
-
 class loginPage extends page {
 	get inputUsername() {
 		return $(`div[class="form_group"] > input[id="user-name"]`

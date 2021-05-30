@@ -14,7 +14,9 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 ✅ Changelog:
 
 	# Fix 0.0.1:
-	✔
+	✔ Actualizacion de readme.md
+	✔ Creacion de carpetas y archivos
+	✔ Correcta configuracion de extensiones
 
 ----------------------------------------------------------
 
@@ -32,15 +34,33 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 	4 - npm run test
 	5 - Se ejecutaran de manera automatica los test configurados por cada página
 
-⊛ Página de login:
+⊛ Page Objects:
 
-		→ LOREM LOREM
-			- Lorem ✓
+		→ Pagina de login (login.page.js)
+			- Input Email ✓
+			- Input Passwod ✓
+			- Error Text ✓
+			- Boton Enviar ✓
 
-⊛ Página del carrito:
+		→ Menu (menu.section.js)
+			- Boton Menu ✓
+			- Boton Todos los Items ✓
+			- Boton Sobre nosotros ✓
+			- Boton Reset ✓
+			- Boton Logout ✓
 
-		→ LOREM LOREM
-			- Lorem ✓
+		→ Seccion de Contacto Redes (social.section.js)
+			- Botones ✓
+			- Links ✓
+
+		→ Carrito de compra (shipping.start.js)
+			- Botones ✓
+			- Links ✓
+			- Botones ✓
+			- Links ✓
+
+		→ End To End (e2e.js)
+			- Test completo de la página ✓
 
 ----------------------------------------------------------
 

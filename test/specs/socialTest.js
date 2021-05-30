@@ -2,7 +2,7 @@ const loginPage = require('../pageobjects/login.page');
 const socialSection = require('../pageobjects/social.section');
 describe("Social Media Tests", () => {
   function browserPause() {
-		browser.pause(2000);
+		browser.pause(2500);
 	}
   function inventoryUrl() {
 		expect(browser).toHaveUrl("https://www.saucedemo.com/inventory.html");

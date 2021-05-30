@@ -4,18 +4,13 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 ----------------------------------------------------------
 
-# IN COURSE:
-	# ⚠️⚠️
-		#
-	# ⚠️⚠️
-
-----------------------------------------------------------
 
 ✅ Changelog:
 
 	# Fix 0.0.1:
 	✔ Actualizacion de readme.md
-	✔ Creacion de carpetas y archivos
+	✔ Creacion de carpetas page obsjects / specs
+	✔ Se da existencia a el test automatizado -> login page
 	✔ Correcta configuracion de extensiones
 
 ----------------------------------------------------------
@@ -66,10 +61,11 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 # Test realizados con WDio ⬇⬇⬇
 	⊛ Página de login
-		- Lorem
-
-	⊛ Formulario REGISTRO
-		- Lorem
+		- Existencia de elementos (3)
+		- Prueba de credenciales vacias
+		- Prueba de credenciales erroneas
+		- Prueba de credenciales correctas
+		- Prueba de url post logueo ok
 
 ----------------------------------------------------------
 

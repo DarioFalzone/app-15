@@ -4,8 +4,10 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 
 ----------------------------------------------------------
 
-
 ✅ Changelog:
+
+	# Version 0.0.10
+	✔ Logueo y compra satisfactoria
 
 	# Fix 0.0.3:
 	✔ Actualizacion de readme.md
@@ -63,14 +65,17 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 			- Botones ✓
 			- Links ✓
 
-		→ Carrito de compra (shipping.start.js)
-			- Botones ✓
-			- Links ✓
-			- Botones ✓
-			- Links ✓
-
 		→ End To End (e2e.js)
-			- Test completo de la página ✓
+			- Boton de un producto ✓
+			- Boton Agregar producto al carrito ✓
+			- Boton Cancelar
+			- Boton Remover
+			- Boton Carrito
+			- Boton Finalizar
+			- Input de nombre de usuario
+			- Input de Apellido
+			- Input de Codigo postal
+
 
 ----------------------------------------------------------
 
@@ -94,6 +99,12 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 		- Seccion todos los items correcto funcionamiento
 		- Pruebas continuas de URLs
 		- Desconectarse
+	⊛ End To End
+		- Logueo
+		- Agregar producto al carrito
+		- Checkear carrito
+		- Remover productos del carrito
+		- Finalizar compra
 
 ----------------------------------------------------------
 

@@ -57,7 +57,7 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 			- Boton Todos los Items ✓
 			- Boton Sobre nosotros ✓
 			- Boton Reset ✓
-			- Boton Logout ✓
+			- Boton Desconectarse ✓
 
 		→ Seccion de Contacto Redes (social.section.js)
 			- Botones ✓
@@ -86,6 +86,14 @@ https://www.saucedemo.com/. Deberán crear los test siguiendo los lineamientos a
 		- Existencia de botones
 		- Existencia de link
 		- Comprobacion de redireccionamientos
+
+	⊛ Menu
+		- Apertura del menu lateral izquierdo
+		- Boton reset correcto funcionamiento
+		- Seccion about correcto funcionamiento
+		- Seccion todos los items correcto funcionamiento
+		- Pruebas continuas de URLs
+		- Desconectarse
 
 ----------------------------------------------------------
 
